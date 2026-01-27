@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teki-sainadh&label=Profile%20views&color=0e75b6&style=flat" alt="teki-sainadh" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teki-sainadh" alt="teki-sainadh" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/thevibecraftr" target="blank"><img src="https://img.shields.io/twitter/follow/thevibecraftr?logo=twitter&style=for-the-badge" alt="thevibecraftr" /></a> </p>
 
 - 🔭 I’m currently working on **Data Analysis Projects using Python & SQL**
