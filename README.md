@@ -24,25 +24,22 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VSIx-xWmJcMz6MvDb2lBrwc33cyjys8X/view?usp=share_link](https://drive.google.com/file/d/1VSIx-xWmJcMz6MvDb2lBrwc33cyjys8X/view?usp=share_link)
 
 - ⚡ **I enjoy solving real world problems using data**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/thevibecraftr" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" height="30" />
   </a>
-
   <a href="https://www.linkedin.com/in/tekisainadh/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="30" />
   </a>
-
   <a href="https://www.instagram.com/ig_sainadh/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" height="30" />
   </a>
-
   <a href="https://www.hackerrank.com/profile/tekisainadh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" height="30" />
   </a>
 </p>
+
 
 
 
