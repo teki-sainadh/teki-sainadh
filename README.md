@@ -89,5 +89,12 @@
 
 <h3 align="left">GitHub Contributions:</h3>
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/teki-sainadh" alt="teki-sainadh contributions"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teki-sainadh&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+<h3 align="left">Contribution Snake:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/teki-sainadh/teki-sainadh/output/github-contribution-grid-snake-dark.svg"/>
 </p>
