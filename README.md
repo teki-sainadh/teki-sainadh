@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VSIx-xWmJcMz6MvDb2lBrwc33cyjys8X/view?usp=share_link](https://drive.google.com/file/d/1VSIx-xWmJcMz6MvDb2lBrwc33cyjys8X/view?usp=share_link)
 
-- ⚡ Fun fact **I enjoy solving real world problems using data**
+- ⚡ **I enjoy solving real world problems using data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
