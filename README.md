@@ -59,12 +59,8 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://lookerstudio.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_looker/google_looker-icon.svg" width="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40"/></a>
-  <a href="https://www.google.com/sheets/about/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" width="40"/></a>
-  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="40"/></a>
-</p>
+  
 
 ---
 
