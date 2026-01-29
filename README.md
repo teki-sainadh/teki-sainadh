@@ -38,7 +38,7 @@
 <h3 align="left">📝 Blogs & Articles</h3>
 <ul>
   <li>
-    <a href="https://thevibecraftr.blogspot.com" target="_blank">
+    <a href="[https://thevibecraftr.blogspot.com" target="_blank](https://tekisainadh.blogspot.com)">
       BLOGS
     </a>
   </li>
