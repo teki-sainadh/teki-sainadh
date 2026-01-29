@@ -39,7 +39,7 @@
 <ul>
   <li>
     <a href="https://thevibecraftr.blogspot.com" target="_blank">
-      Personal Blog – Data Analytics Roadmaps, Python, SQL & Projects
+      BLOGS
     </a>
   </li>
 </ul>
