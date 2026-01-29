@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate on **Beginner friendly Data Analytics & Open Source Projects**
 - 🤝 I’m looking for help with **Advanced SQL queries & real world analytics use cases**
 - ✍️ I regularly write about **Data Analytics, Python & SQL** on my blog  
-  👉 <a href="https://thevibecraftr.blogspot.com" target="_blank"><strong>Visit My Blog</strong></a>
+  👉 <a href="https://tekisainadh.blogspot.com" target="_blank"><strong>Visit My Blog</strong></a>
 - 👨‍💻 All of my projects are available at  
   https://github.com/teki-sainadh?tab=repositories
 - 💬 Ask me about **Python basics, SQL queries, Data Analysis fundamentals**
@@ -38,8 +38,8 @@
 <h3 align="left">📝 Blogs & Articles</h3>
 <ul>
   <li>
-    <a href="[https://thevibecraftr.blogspot.com" target="_blank](https://tekisainadh.blogspot.com)">
-      BLOGS
+    <a href="https://tekisainadh.blogspot.com" target="_blank">
+      📘 Personal Blog – Data Analytics, Python & SQL
     </a>
   </li>
 </ul>
