@@ -30,7 +30,7 @@
 - 💬 Ask me about **Python basics, SQL queries, Data Analysis fundamentals**
 - 📫 How to reach me **tekisainadh@gmail.com**
 - 📄 Know about my experiences  
-  https://drive.google.com/file/d/1VSIx-xWmJcMz6MvDb2lBrwc33cyjys8X/view
+  https://drive.google.com/file/d/1nexTMIXC5EEc8ACRe6wZlk1sU1ZZWjbU/view?usp=share_link
 - ⚡ **I enjoy solving real world problems using data**
 
 ---
