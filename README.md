@@ -17,10 +17,14 @@
   </a>
 </p>
 
+---
+
 - 🔭 I’m currently working on **Data Analysis Projects using Python & SQL**
 - 🌱 I’m currently learning **Python, SQL, Power BI, Statistics, Data Visualization**
 - 👯 I’m looking to collaborate on **Beginner friendly Data Analytics & Open Source Projects**
 - 🤝 I’m looking for help with **Advanced SQL queries & real world analytics use cases**
+- ✍️ I regularly write about **Data Analytics, Python & SQL** on my blog  
+  👉 <a href="https://thevibecraftr.blogspot.com" target="_blank"><strong>Visit My Blog</strong></a>
 - 👨‍💻 All of my projects are available at  
   https://github.com/teki-sainadh?tab=repositories
 - 💬 Ask me about **Python basics, SQL queries, Data Analysis fundamentals**
@@ -28,6 +32,17 @@
 - 📄 Know about my experiences  
   https://drive.google.com/file/d/1VSIx-xWmJcMz6MvDb2lBrwc33cyjys8X/view
 - ⚡ **I enjoy solving real world problems using data**
+
+---
+
+<h3 align="left">📝 Blogs & Articles</h3>
+<ul>
+  <li>
+    <a href="https://thevibecraftr.blogspot.com" target="_blank">
+      Personal Blog – Data Analytics Roadmaps, Python, SQL & Projects
+    </a>
+  </li>
+</ul>
 
 ---
 
@@ -60,7 +75,7 @@
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40"/></a>
-  
+</p>
 
 ---
 
@@ -88,9 +103,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=teki-sainadh&theme=github-dark&hide_border=true"/>
 </p>
 
----
-<h3 align="left">GitHub Contributions:</h3>
 <p align="center">
   <img src="https://ghchart.rshah.org/409ba5/teki-sainadh" alt="teki-sainadh contributions"/>
 </p>
-
