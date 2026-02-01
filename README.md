@@ -49,18 +49,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/thevibecraftr" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" height="30" style="filter: invert(1);" />
   </a>
   <a href="https://www.linkedin.com/in/tekisainadh/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="30" style="filter: invert(1);" />
   </a>
   <a href="https://www.instagram.com/ig_sainadh/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" height="30" style="filter: invert(1);" />
   </a>
   <a href="https://www.hackerrank.com/profile/tekisainadh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" height="30" style="filter: invert(1);" />
   </a>
 </p>
+
 
 ---
 
