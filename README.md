@@ -60,7 +60,11 @@
   <a href="https://www.hackerrank.com/profile/tekisainadh" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
+  <a href="https://wa.me/919398163512" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
+
 
 
 ---
