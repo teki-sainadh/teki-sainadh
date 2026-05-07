@@ -31,15 +31,15 @@
 - How to reach me **tekisainadh@gmail.com**
 - Know about my experiences  
   [https://drive.google.com/file/d/1nexTMIXC5EEc8ACRe6wZlk1sU1ZZWjbU/view?usp=share_link](https://drive.google.com/file/d/1OVjYg6j3X78e73c_BAFWbViVTAcrMKr0/view?usp=sharing)
-- ⚡ **I enjoy solving real world problems using AI**
+-  **I enjoy solving real world problems using AI**
 
 ---
 
-<h3 align="left">📝 Blogs & Articles</h3>
+<h3 align="left"> Blogs & Articles</h3>
 <ul>
   <li>
     <a href="https://tekisainadh.blogspot.com" target="_blank">
-      📘 Personal Blog – AWS Cloud, Python, Networking And Linux
+       Personal Blog – AWS Cloud, Python, Networking And Linux
     </a>
   </li>
 </ul>
