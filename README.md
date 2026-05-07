@@ -19,7 +19,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Data Analysis Projects using Python & SQL**
+- 🔭 I’m currently working on **AI projects using Python,Aws Cloud,Linux and Development**
 - 🌱 I’m currently learning **Python, SQL, Power BI, Statistics, Data Visualization**
 - 👯 I’m looking to collaborate on **Beginner friendly Data Analytics & Open Source Projects**
 - 🤝 I’m looking for help with **Advanced SQL queries & real world analytics use cases**
