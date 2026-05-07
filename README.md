@@ -19,17 +19,17 @@
 
 ---
 
-- 🔭 I’m currently working on **AI projects using Python,Aws Cloud,Linux and Development**
-- 🌱 I’m currently learning **Python, SQL, AWS, Linux, Networking**
-- 👯 I’m looking to collaborate on **Beginner friendly AI cloud & Open Source Projects**
-- 🤝 I’m looking for help with **Advanced AI Projects & real world Cloud use cases**
-- ✍️ I regularly write about **Cloud,Python,Linux,Networking & SQL** on my blog  
-  👉 <a href="https://tekisainadh.blogspot.com" target="_blank"><strong>Visit My Blog</strong></a>
-- 👨‍💻 All of my projects are available at  
+-  I’m currently working on **AI projects using Python,Aws Cloud,Linux and Development**
+-  I’m currently learning **Python, SQL, AWS, Linux, Networking**
+-  I’m looking to collaborate on **Beginner friendly AI cloud & Open Source Projects**
+-  I’m looking for help with **Advanced AI Projects & real world Cloud use cases**
+-  I regularly write about **Cloud,Python,Linux,Networking & SQL** on my blog  
+  👉🏼 <a href="https://tekisainadh.blogspot.com" target="_blank"><strong>Visit My Blog</strong></a>
+-  All of my projects are available at  
   https://github.com/teki-sainadh?tab=repositories
-- 💬 Ask me about **AWS Cloud, Networking,Linux fundamentals**
-- 📫 How to reach me **tekisainadh@gmail.com**
-- 📄 Know about my experiences  
+-  Ask me about **AWS Cloud, Networking,Linux fundamentals**
+- How to reach me **tekisainadh@gmail.com**
+- Know about my experiences  
   [https://drive.google.com/file/d/1nexTMIXC5EEc8ACRe6wZlk1sU1ZZWjbU/view?usp=share_link](https://drive.google.com/file/d/1OVjYg6j3X78e73c_BAFWbViVTAcrMKr0/view?usp=sharing)
 - ⚡ **I enjoy solving real world problems using AI**
 
