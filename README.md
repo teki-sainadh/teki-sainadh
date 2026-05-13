@@ -30,7 +30,7 @@
 -  Ask me about **AWS Cloud, Networking,Linux fundamentals**
 - How to reach me **tekisainadh@gmail.com**
 - Know about my experiences  
-  [https://drive.google.com/file/d/1nexTMIXC5EEc8ACRe6wZlk1sU1ZZWjbU/view?usp=share_link](https://drive.google.com/file/d/1OVjYg6j3X78e73c_BAFWbViVTAcrMKr0/view?usp=sharing)
+  [https://drive.google.com/file/d/18QvWzzn-j1SoNQjUT1Qz5uYZX7R0hyJD/view?usp=share_link)
 -  **I enjoy solving real world problems using AI**
 
 ---
